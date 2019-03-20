@@ -46,10 +46,10 @@ TBC
 
 ## Built With
 
-* [boom]
-* [fastify]
-* [fastify-swagger]
-* [mongoDB]
+* [boom](https://www.npmjs.com/package/boom)
+* [fastify](https://www.npmjs.com/package/fastify)
+* [fastify-swagger](https://www.npmjs.com/package/fastify-swagger)
+* [mongoose](https://www.npmjs.com/package/mongoose)
 
 ## Contributing
 
